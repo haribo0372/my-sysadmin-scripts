@@ -1,0 +1,252 @@
+--- 2026-09-27 12:03:05 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       881Mi       1.2Gi        26Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:03:05 up 54 min,  0 users,  load average: 0.32, 0.08, 0.05
+
+--- 2026-09-27 12:03:15 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       870Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:03:15 up 55 min,  0 users,  load average: 0.27, 0.08, 0.05
+
+--- 2026-09-27 12:03:25 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       870Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:03:25 up 55 min,  0 users,  load average: 0.23, 0.08, 0.05
+
+--- 2026-09-27 12:03:35 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       864Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:03:35 up 55 min,  0 users,  load average: 0.19, 0.07, 0.05
+
+--- 2026-09-27 12:03:45 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       855Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:03:45 up 55 min,  0 users,  load average: 0.16, 0.07, 0.05
+
+--- 2026-09-27 12:03:55 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       855Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:03:55 up 55 min,  0 users,  load average: 0.14, 0.07, 0.05
+
+--- 2026-09-27 12:04:05 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       856Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:04:05 up 55 min,  0 users,  load average: 0.12, 0.07, 0.05
+
+--- 2026-09-27 12:04:15 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       856Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:04:15 up 56 min,  0 users,  load average: 0.10, 0.06, 0.05
+
+--- 2026-09-27 12:04:25 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       856Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:04:25 up 56 min,  0 users,  load average: 0.08, 0.06, 0.05
+
+--- 2026-09-27 12:04:35 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       856Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:04:35 up 56 min,  0 users,  load average: 0.07, 0.06, 0.04
+
+--- 2026-09-27 12:04:45 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       857Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:04:45 up 56 min,  0 users,  load average: 0.06, 0.06, 0.04
+
+--- 2026-09-27 12:04:55 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       857Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:04:55 up 56 min,  0 users,  load average: 0.05, 0.05, 0.04
+
+--- 2026-09-27 12:05:05 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       858Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:05:05 up 56 min,  0 users,  load average: 0.04, 0.05, 0.04
+
+--- 2026-09-27 12:05:15 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       876Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:05:15 up 57 min,  0 users,  load average: 0.03, 0.05, 0.04
+
+--- 2026-09-27 12:05:25 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       876Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:05:25 up 57 min,  0 users,  load average: 0.03, 0.05, 0.04
+
+--- 2026-09-27 12:08:29 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       877Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:08:29 up  1:00,  0 users,  load average: 0.49, 0.14, 0.07
+
+--- 2026-09-27 12:08:39 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       875Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:08:39 up  1:00,  0 users,  load average: 0.58, 0.17, 0.08
+
+--- 2026-09-27 12:08:49 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       875Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:08:49 up  1:00,  0 users,  load average: 0.49, 0.16, 0.08
+
+--- 2026-09-27 12:08:59 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       884Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:08:59 up  1:00,  0 users,  load average: 0.49, 0.17, 0.08
+
+--- 2026-09-27 12:10:17 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       880Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:10:17 up  1:02,  0 users,  load average: 0.14, 0.13, 0.07
+
+--- 2026-09-27 12:10:27 ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.2Gi       885Mi       1.2Gi        27Mi       3.2Gi       4.1Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          35G  8.5G   25G  26% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/sda2        35G  8.5G   25G  26% /root
+tmpfs           4.0K     0  4.0K   0% /proc/acpi
+ 12:10:27 up  1:02,  0 users,  load average: 0.12, 0.13, 0.07
+

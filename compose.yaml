@@ -1,0 +1,12 @@
+services:
+  monitor:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: monitor:latest
+    container_name: monitor
+    restart: unless-stopped
+    volumes:
+      - ./logs:/root
+    environment:
+      - TZ=Europe/Moscow
